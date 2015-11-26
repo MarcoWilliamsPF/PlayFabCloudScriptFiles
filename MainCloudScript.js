@@ -1,6 +1,7 @@
 var handlers = {
     HelloWorld: function () {
-        var result = { 'message': 'Hello World' };
+        var result = {};
+        result.message = 'hello world';
         return result;
     }
 };

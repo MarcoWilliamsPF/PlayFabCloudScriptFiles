@@ -4,7 +4,7 @@ var handlers ={
 	},
 
 	testMethod: function(){
-		return {"message":"Hello World"}
+		return {"message":"Hello World"};
 	},
 
 	anotherMethod: function(){

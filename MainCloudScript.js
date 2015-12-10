@@ -1,5 +1,5 @@
 var handlers = {
-    GetHelloWorld: function () {
+    GetHelloWorldNew: function () {
         return helpers.HelloWorld();
     }
 };

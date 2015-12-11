@@ -1,3 +1,23 @@
+///////////////////////////////////////////////////////////////////////////////////////////////////////
+// Matt & Marco Test.
+// Welcome to your first Cloud Script revision!
+// The examples here provide a quick introduction to using Cloud Script and some
+// ideas about how you might use it in your game.
+//
+// There are two approaches for invoking Cloud Script: calling handler functions directly
+// from the game client using the "RunCloudScript" API, or triggering Photon Webhooks associated with
+// room events. Both approaches are demonstrated in this file. You can use one or the other, or both.
+//
+// Feel free to use this as a starting point for your game server logic, or to replace it altogether.
+// If you have any questions or need advice on where to begin,
+// check out the resources at https://playfab.com/cloud-script or check our forums at
+// https://support.playfab.com. For issues which are confidential (involving sensitive intellectual
+// property, for example), please contact our Developer Success team directly at devrel@playfab.com.
+//
+// - The PlayFab Team
+//
+///////////////////////////////////////////////////////////////////////////////////////////////////////
+
 
 // This is a Cloud Script handler function. It runs in the PlayFab cloud and
 // has full access to the PlayFab Game Server API

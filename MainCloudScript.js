@@ -1,6 +1,6 @@
 ///////////////////////////////////////////////////////////////////////////////////////////////////////
 //
-// Welcome to your first Cloud Script revision.
+// Welcome to your first Cloud Script revision!
 // The examples here provide a quick introduction to using Cloud Script and some
 // ideas about how you might use it in your game.
 //

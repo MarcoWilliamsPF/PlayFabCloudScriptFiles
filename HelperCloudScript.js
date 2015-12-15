@@ -1,7 +1,7 @@
 var helpers = {
     helloWorld: function () {
         var result = {};
-        result.message = 'Testing CloudScript & GitHub 2';
+        result.message = 'Test Hellow World for Video';
         return result;
     }
 };

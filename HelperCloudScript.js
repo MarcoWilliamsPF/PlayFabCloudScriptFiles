@@ -7,7 +7,7 @@ var helpers = {
 
     TestMethod: function(){
 		var result = {};
-		result.message = "Test Method 2";
+		result.message = "Test Method 3";
 		return result;
 	}
 };

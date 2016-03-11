@@ -1,0 +1,10 @@
+{
+  "TableId": "DropTable_02",
+  "Nodes": [
+    {
+      "ResultItemType": "ItemId",
+      "ResultItem": "testItem_02",
+      "Weight": 100
+    }
+  ]
+}

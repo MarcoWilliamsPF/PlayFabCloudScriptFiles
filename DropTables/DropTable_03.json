@@ -1,0 +1,15 @@
+{
+  "TableId": "DropTable_03",
+  "Nodes": [
+    {
+      "ResultItemType": "TableId",
+      "ResultItem": "DropTable_01",
+      "Weight": 50
+    },
+    {
+      "ResultItemType": "TableId",
+      "ResultItem": "DropTable_02",
+      "Weight": 50
+    }
+  ]
+}

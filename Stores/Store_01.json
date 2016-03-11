@@ -1,0 +1,11 @@
+{
+  "CatalogVersion":"MyCatalog",
+  "StoreId":"MyFirstStore",
+  "StoreItems":[
+    {
+      "ItemId":"testItem",
+      "VirtualCurrencyPrices":{"GO":100},
+      "RealCurrencyPrices":{}
+    }
+  ]
+}

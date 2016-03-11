@@ -1,0 +1,49 @@
+{
+  "CatalogVersion": "MyCatalog",
+  "Catalog": [
+    {
+      "ItemId": "testItem",
+      "ItemClass": null,
+      "CatalogVersion": "MyCatalog",
+      "DisplayName": null,
+      "Description": null,
+      "VirtualCurrencyPrices": null,
+      "RealCurrencyPrices": {},
+      "Tags": [],
+      "CustomData": "null",
+      "Consumable": {
+        "UsageCount": null,
+        "UsagePeriod": null,
+        "UsagePeriodGroup": null
+      },
+      "Container": null,
+      "Bundle": null,
+      "CanBecomeCharacter": false,
+      "IsStackable": false,
+      "IsTradable": false,
+      "ItemImageUrl": null
+    },
+    {
+      "ItemId": "testItem_02",
+      "ItemClass": null,
+      "CatalogVersion": "MyCatalog",
+      "DisplayName": "Test Item 2",
+      "Description": "test Item 2",
+      "VirtualCurrencyPrices": null,
+      "RealCurrencyPrices": {},
+      "Tags": [],
+      "CustomData": "{\"WithCustomData\":\"true\"}",
+      "Consumable": {
+        "UsageCount": null,
+        "UsagePeriod": null,
+        "UsagePeriodGroup": null
+      },
+      "Container": null,
+      "Bundle": null,
+      "CanBecomeCharacter": false,
+      "IsStackable": false,
+      "IsTradable": false,
+      "ItemImageUrl": null
+    }
+  ]
+}
